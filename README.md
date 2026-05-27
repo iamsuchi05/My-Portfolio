@@ -103,26 +103,6 @@ Food delivery frontend inspired by Swiggy with dynamic restaurant data and cart 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamsuchi05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuchi05&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</p>
-
----
-
-# 🔥 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
 # 🌸 About Me
 
 - 💖 Passionate about frontend development and aesthetic UI design
